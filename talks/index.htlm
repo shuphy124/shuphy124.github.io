@@ -17,17 +17,17 @@
 <div class="menu-item"><a href="https://shuphy124.github.io">Home</a></div>
   
 <div class="menu-item"><a href="https://inspirehep.net/authors/1609928?ui-citation-summary=true">Inspire</a></div>
-<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="index.html" >Home</a></div>
 <div class="menu-item"><a href="https://inspirehep.net/authors/1609928?ui-citation-summary=true">Inspire</a></div>
 <div class="menu-item"><a href="http://www7.zzu.edu.cn/astro/info/1011/1251.htm">ZZU</a></div>
-<div class="menu-item"><a href="https://shuphy124.github.io/Invited Talks/">Invited Talks</a></div>
+<div class="menu-item"><a href="https://shuphy124.github.io/talks/"class="current">Invited Talks</a></div>
 <div class="menu-item"><a href="https://shuphy124.github.io/event/">Events</a></div>
 <div class="menu-item"><a href="https://shuphy124.github.io/reading_list/">Reading List</a></div>
   
   </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>My Reading List </h1>
+<h1>Invited talks </h1>
 </div>
 
  
